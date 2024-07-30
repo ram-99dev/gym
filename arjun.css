@@ -1,0 +1,35 @@
+html{
+    background: #FEF3E2;
+}
+h1{
+    background: #BEC6A0;
+    font-family: "Playwrite AT", cursive;
+    color: blue;
+    text-align: center;
+}
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    border:10px;
+    border-radius: 50%;
+}
+h2{
+    color:green;
+    text-align: center;
+}
+ul{
+    background:black;
+    color:white;
+    
+   }
+.a{
+
+font-size:15px;
+color:blueviolet;
+
+
+}
+#a{
+    
+}
